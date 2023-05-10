@@ -1,6 +1,14 @@
 # Front-end Style Guide
 
 ## Layout
+container-size:
+largura 1112px
+altura 444px
+
+margem do h1 a borda superior 78px
+margem esquerda 68px
+margem inferior 50px
+margem direita 120px
 
 The designs were created to the following widths:
 
