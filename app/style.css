@@ -98,7 +98,7 @@ body {
     grid-template-columns: 1fr;
   }
   .container .content .text {
-    padding: 8%;
+    padding: 12% 8%;
   }
   .container .content .stats-box {
     flex-direction: column;

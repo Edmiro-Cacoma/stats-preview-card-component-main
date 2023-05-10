@@ -100,6 +100,28 @@ body {
     }
 }
 
+@media only screen and(max-width:768px) and (min-width: 426px) {
+    body {
+        font-size: 12px;
+    }
+    .text {
+        padding: 12%;
+
+        .title {
+            font-size: 22px;
+        }
+    }
+
+    .stats-box {
+        padding-top: 30px;
+        .quantity {
+            font-size: 17px;
+        }
+
+        p{ font-size: 12px;}
+    }
+}
+
 @media only screen and (max-width: 430px) {
     body {
         text-align: center;
@@ -110,7 +132,7 @@ body {
             grid-template-columns: 1fr;
 
             .text {
-                padding: 8%;
+                padding: 12% 8%;
             }
 
             .stats-box {
